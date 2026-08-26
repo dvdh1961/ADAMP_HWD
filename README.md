@@ -5,8 +5,8 @@
 ---
 
 ![Current progress](https://img.shields.io/badge/Version-V0.1.08.26-yellow)
-![Stars](https://img.shields.io/github/stars/dvdh1961/ADAMP)
-![Issues](https://img.shields.io/github/issues/dvdh1961/ADAMP)
+![Stars](https://img.shields.io/github/stars/dvdh1961/ADAMP_HWD)
+![Issues](https://img.shields.io/github/issues/dvdh1961/ADAMP_HWD)
 
 ---
 
