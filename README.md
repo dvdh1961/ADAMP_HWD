@@ -5,4 +5,4 @@
 
 ---
 
-![Logo](https://github.com/dvdh1961/ADAMP_HWD/blob/main/images/HWD.png)
+![AdamP_HWD](https://github.com/dvdh1961/ADAMP_HWD/blob/main/images/HWD.jpg)
