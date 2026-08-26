@@ -4,6 +4,12 @@
 
 ---
 
+![Current progress](https://img.shields.io/badge/Version-V0.1.08.26-yellow)
+![Stars](https://img.shields.io/github/stars/dvdh1961/ADAMP)
+![Issues](https://img.shields.io/github/issues/dvdh1961/ADAMP)
+
+---
+
 Connect all your legacy Coleco Adam hardware devices—such as floppy drives, keyboards, joysticks, FujiNet
 to the Adam+ emulator using this hardware device with programmable USB MCUs.
 
