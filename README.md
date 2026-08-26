@@ -11,6 +11,39 @@ to the Adam+ emulator using this hardware device with programmable USB MCUs.
 
 ---
 
+![AdamP_HWD](https://github.com/dvdh1961/ADAMP_HWD/blob/main/Images/ADAM_Plus_Hardware_Block_Diagram.png)
+
+# System Description
+
+- The ADAM+ Hardware Interface contains two independently programmable CH559 USB microcontrollers. 
+  An onboard FE2.1 USB hub connects both controllers to the host computer through a single USB connection.
+
+- CH559 MCU 1 – Keyboard and Joystick Gateway
+
+  The first CH559 acts as a gateway for the original Coleco ADAM keyboard and two Coleco-compatible joysticks.
+  The keyboard is connected through an RJ11 connector. Its serial signal passes through a 74HC14 Schmitt-trigger circuit,
+  which cleans and reshapes the electrical signal before it reaches the CH559 UART interface.
+
+  The CH559 translates the original ADAM keyboard protocol into a standard USB HID keyboard.
+  It also reads two hardware joysticks through their DB9 connectors and presents them to the host as USB HID game controllers.
+
+- CH559 MCU 2 – ADAMNet Master
+
+  The second CH559 operates as an ADAMNet master controller.
+  It communicates with original ADAMNet peripherals through its UART interface and a 74HC14 Schmitt-trigger signal-conditioning circuit.
+
+  Supported peripherals can include:
+
+      - Coleco ADAM floppy disk drives
+      - ADAM printers
+      - FujiNet
+      - ADE or other drive emulators
+      - Other ADAMNet-compatible hardware
+
+- The controller translates communication between the USB host and the original ADAMNet bus, allowing physical ADAM peripherals to be used with the ADAM+ emulator.
+
+---
+
 ![AdamP_HWD](https://github.com/dvdh1961/ADAMP_HWD/blob/main/Images/ADAMP_HWD_PCB.png)
 
 ---
