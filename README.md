@@ -2,6 +2,8 @@
 
 ---
 
+Connect all your legacy Coleco Adam hardware devices—such as floppy drives, keyboards, joysticks, FujiNet
+to the Adam+ emulator using this hardware device with programmable USB MCUs.
 
 ---
 
