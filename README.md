@@ -19,7 +19,7 @@ to the Adam+ emulator using this hardware device with programmable USB MCUs.
 
 ---
 
-# Let's Go
+# Let's Go Fujinet ! press on photo to see it in action.
 
 [![AdamP_HWD](https://github.com/dvdh1961/ADAMP_HWD/blob/main/Images/Fujinet_AdamP.jpg)](https://youtu.be/oGeiW5sdebk)
 
