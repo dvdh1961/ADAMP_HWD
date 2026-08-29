@@ -21,6 +21,7 @@ to the Adam+ emulator using this hardware device with programmable USB MCUs.
 
 # Let's Go
 
+//https://youtu.be/oGeiW5sdebk 
 ![AdamP_HWD](https://github.com/dvdh1961/ADAMP_HWD/blob/main/Images/AdamP_Fujinet_Hardware.mp4)
 
 ---
