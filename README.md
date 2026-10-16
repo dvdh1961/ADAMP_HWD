@@ -7,6 +7,7 @@
 ![Current progress](https://img.shields.io/badge/Version-V1.0.08.26-yellow)
 ![Stars](https://img.shields.io/github/stars/dvdh1961/ADAMP_HWD)
 ![Issues](https://img.shields.io/github/issues/dvdh1961/ADAMP_HWD)
+[![release](https://img.shields.io/badge/Quick%20review-ADAM+%20Hardware-magenta.svg)](https://youtu.be/u7YjjqL3C9E)
 
 ---
 
